@@ -3,18 +3,13 @@
 </p>
 <p>
 
-We will be utilizing Geth to create a blockchain as a tool for Zbanks customers. Below you will be able to 
+We will be utilizing Geth to create a blockchain as a tool for Zbanks customers. Setup instructions and Dependicies are listed below:  
 
-- Modo quid Nox nostrae formae tellus palus
-- Numen soror fere tacitus
-- Est pectine pyropo mea exiguas petere
-- Spem est
-- Hunc Victoria
-</p>
-    Setup instructions & Dependencies<br>
-    1. Geth - a command line tool to <br>
-    2. Mycrypto - is atool...
-    <img src=Screenshots/Capture1.png><br>
+- Geth
+- MyCrypto
+</p></br>
+ 
+<img src=Screenshots/Capture1.png><br>
 1. In the image above we used the datadir flag to specify the directory of node1 and then node2 and generate the required keys. It is strongly suggested that you copy and paste these keys into a document as we will need them later on. Each node that was created is password protected (node1=1234, node2=12345). These passwords have been placed in a text file and will be recalled later on.Once completed you will hit "Enter"
 
 <img src=Screenshots/Capture2.png><br>
